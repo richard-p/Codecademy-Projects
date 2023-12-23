@@ -1,0 +1,9 @@
+To compile:
+> g++ ttt.cpp ttt_func.cpp
+
+Access compiler -> give it main -> give it definitions cpp
+
+Also, to change name:
+> g++ ttt.cpp ttt_func.cpp -o [name]
+
+Access compiler -> give it main -> give it definitions cpp -> -output -> name
